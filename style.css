@@ -120,7 +120,7 @@ label[for="bt_menu"]{
      position: absolute;
      font-size: 30px;
      cursor: pointer;
-     color: var(--cor5);
+     color: blue;
  }
  #bt_menu {
      display: none;
@@ -137,7 +137,7 @@ label[for="bt_menu"]{
         font-size: 3em;
     }
     header p {
-        font-size: 1.5em;
+        font-size: 2em;
     }
     nav {
         width: 0px;
