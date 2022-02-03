@@ -120,6 +120,7 @@ label[for="bt_menu"]{
      position: absolute;
      font-size: 30px;
      cursor: pointer;
+     color: var(--cor5);
  }
  #bt_menu {
      display: none;
@@ -133,10 +134,10 @@ label[for="bt_menu"]{
         width: 100%;
     }
     header h1{
-        font-size: 4em;
+        font-size: 3em;
     }
     header p {
-        font-size: 2.2em;
+        font-size: 1.5em;
     }
     nav {
         width: 0px;
